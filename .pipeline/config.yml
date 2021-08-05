@@ -1,0 +1,9 @@
+general: 
+steps:
+  System Tests:
+            allowMissing: true,
+            alwaysLinkToLastBuild: true,
+            keepAll: true,
+            reportDir: 'target/report/screenshots/',
+            reportFiles: "report.html",
+            reportName: "UIVeri5 Test Report"
